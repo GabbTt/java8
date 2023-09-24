@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>java8</name>
+=======
+	<name>Java8Certificate</name>
+>>>>>>> a3d2122e9d6ec2b36815a37ec3038d7a98a9ef18
 	<comment></comment>
 	<projects>
 	</projects>
